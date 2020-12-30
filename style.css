@@ -30,7 +30,6 @@ header {
 #navbar {
     background: rgb(255,203,249);
     background: linear-gradient(0deg, rgba(255,203,249,1) 0%, rgba(254,226,248,1) 50%, rgba(255,246,253,1) 100%);
-    /* position: fixed; */
     top: 0px;
     left: 0px;
     height: 100%;
